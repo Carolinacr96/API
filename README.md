@@ -1,6 +1,6 @@
 # Mongo API REST 🚀
 
-En este proyecto se creará una API REST basada en Js de la mano con MongoDB Atlas Cluster.
+En este proyecto se creará una API REST basada en Js con Express y MongoDB Atlas.
 
 ## Verémos 👩‍💻
 - Utilización de express.
